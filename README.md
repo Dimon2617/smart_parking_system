@@ -158,6 +158,7 @@ INSERT INTO PARKING_SLOTS (id, type, available, level_id) VALUES (1, 'COMPACT', 
 
 - **Assign preferred slot types per vehicle class**
 - **Add validation for vehicle plate**
+- **Add AOP layer for logging**
 - **Enable real-time availability tracking with WebSockets.**
 - **Admin/user authentication** 
 
